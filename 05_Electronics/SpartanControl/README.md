@@ -38,4 +38,4 @@ _With terminal blocks the diodes can be connected to the wires._
 
 ![12-pos switch](images/12-pos_switches_and_diodes_2.jpg)
 
-_The 12-position switches for inspiratory and expiratory speeds, as seen from the side. Multiple switch paths are put in parellel to be able to handle a larger current._
+_The 12-position switches for inspiratory and expiratory speeds, as seen from the side. Multiple switch paths are put in parallel to be able to handle a larger current._
